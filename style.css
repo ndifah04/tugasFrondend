@@ -1,0 +1,42 @@
+/* *{
+    border: 1px solid red;
+} */
+body{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 0%, rgba(253,191,33,1) 0%, rgba(253,117,33,1) 83%);
+}
+.biodata {
+    background-color: #fff;
+    border-radius: 30px;
+    margin: 70px auto;
+    max-width: 480px;
+    padding: 20px;
+    text-align: center;
+}
+img{
+    height: 180px;
+    width: 180px;
+    border: 7px solid;
+    border-color:#FFD95A;
+    border-radius: 100px;
+    margin-bottom: 10px;
+}
+.baris {
+    border-radius: 4px;
+    border: 1px solid black;
+    margin: 0;
+    overflow: hidden;
+}
+
+p{
+    width: auto;
+    background-color: green;
+    margin: 0;
+    color: white;
+}
+.container {
+    display: grid;
+    justify-content: space-between;
+  }
+  
+
