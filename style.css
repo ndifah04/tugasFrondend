@@ -16,21 +16,21 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 0%, 
 img{
     height: 180px;
     width: 180px;
-    border: 7px solid;
-    border-color:#FFD95A;
+    border: 5px solid;
+    border-color:palevioletred;
     border-radius: 100px;
     margin-bottom: 10px;
 }
 .baris {
     border-radius: 4px;
-    border: 1px solid black;
+    border: 1px solid #B7B7B7;
     margin: 0;
     overflow: hidden;
 }
 
 p{
     width: auto;
-    background-color: green;
+    background-color: #357C3C;
     margin: 0;
     color: white;
 }
